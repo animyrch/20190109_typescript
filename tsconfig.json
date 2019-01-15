@@ -1,16 +1,16 @@
 {
     "compilerOptions": {
-	"target": "es5",
+	     "target": "es5",
         "module": "commonjs",
         "noImplicitAny": true,
         "removeComments": true,
         "preserveConstEnums": true,
-        "sourceMap": true,
-	"pretty": true,
-	"rootDir": "./",
-	"outDir": "./results/"
+        "pretty": true,
+      	"rootDir": "./",
+      	"outDir": "./js/"
     },
     "files": [
-        "exercice.ts"
+        "main.ts",
+        "class_student.ts"
     ]
 }
